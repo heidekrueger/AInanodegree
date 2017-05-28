@@ -1,3 +1,6 @@
 [submodule "AIND-Sudoku"]
 	path = AIND-Sudoku
 	url = https://github.com/heidekrueger/AIND-Sudoku
+[submodule "AIND-Isolation"]
+	path = AIND-Isolation
+	url = https://github.com/heidekrueger/AIND-Isolation
