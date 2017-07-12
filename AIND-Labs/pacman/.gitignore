@@ -1,0 +1,5 @@
+*.sublime-project
+*.sublime-workspace
+*.pyc
+search/search.py
+search/searchAgents.py
