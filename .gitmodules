@@ -7,3 +7,6 @@
 [submodule "AIND-Labs/AIND-Simulated_Annealing"]
 	path = AIND-Labs/AIND-Simulated_Annealing
 	url = https://github.com/udacity/AIND-Simulated_Annealing
+[submodule "AIND-Labs/AIND-Constraint_Satisfaction"]
+	path = AIND-Labs/AIND-Constraint_Satisfaction
+	url = https://github.com/heidekrueger/AIND-Constraint_Satisfaction.git
