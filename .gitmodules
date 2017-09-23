@@ -19,3 +19,6 @@
 [submodule "keras_tutorial"]
 	path = keras_tutorial
 	url = https://github.com/heidekrueger/aind2-dl.git
+[submodule "aind2-cnn"]
+	path = aind2-cnn
+	url = https://github.com/heidekrueger/aind2-cnn.git
