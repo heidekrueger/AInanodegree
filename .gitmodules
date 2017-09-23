@@ -16,3 +16,6 @@
 [submodule "AIND-Recognizer"]
 	path = AIND-Recognizer
 	url = https://github.com/heidekrueger/AIND-Recognizer.git
+[submodule "keras_tutorial"]
+	path = keras_tutorial
+	url = https://github.com/heidekrueger/aind2-dl.git
