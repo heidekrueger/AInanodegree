@@ -25,3 +25,6 @@
 [submodule "dog-project"]
 	path = dog-project
 	url = https://github.com/heidekrueger/dog-project
+[submodule "deep-learning"]
+	path = deep-learning
+	url = https://github.com/heidekrueger/deep-learning
