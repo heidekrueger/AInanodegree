@@ -28,3 +28,6 @@
 [submodule "deep-learning"]
 	path = deep-learning
 	url = https://github.com/heidekrueger/deep-learning
+[submodule "aind2-rnn"]
+	path = aind2-rnn
+	url = https://github.com/heidekrueger/aind2-rnn.git
