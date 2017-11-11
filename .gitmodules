@@ -31,3 +31,6 @@
 [submodule "aind2-rnn"]
 	path = aind2-rnn
 	url = https://github.com/heidekrueger/aind2-rnn.git
+[submodule "AIND-NLP-Bookworm"]
+	path = AIND-NLP-Bookworm
+	url = https://github.com/heidekrueger/AIND-NLP-Bookworm.git
