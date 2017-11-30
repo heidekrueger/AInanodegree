@@ -37,3 +37,6 @@
 [submodule "AIND-NLP"]
 	path = AIND-NLP
 	url = https://github.com/heidekrueger/AIND-NLP
+[submodule "aind2-nlp-capstone"]
+	path = aind2-nlp-capstone
+	url = https://github.com/heidekrueger/aind2-nlp-capstone.git
